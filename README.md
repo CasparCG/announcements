@@ -1,10 +1,10 @@
 # Announcements
 This repository is for announcements only and is intended to give the community the latest news about what's going on. Since this repository is for announcements only, we do not accept issues or PRs on this repository, for that we have to redirect you to the appropriate repository.
 
-## Receiving Notifications
-Subscribe to this repository to be notified about latest announcements in the world of CasparCG.
 
-![image][watchpng]
+> *Subscribe to this repository to be notified about latest announcements in the world of CasparCG*
+>
+> ![image][watchpng]
 
 
 # Latest (2020-05-18)
