@@ -1,4 +1,13 @@
-# Latest Announcement (2020-05-18)
+# Announcements
+This repository is for announcements only and is intended to give the community the latest news about what's going on. Since this repository is for announcements only, we do not accept issues or PRs on this repository, for that we have to redirect you to the appropriate repository.
+
+## Receiving Notifications
+Subscribe to this repository to be notified about latest announcements in the world of CasparCG.
+
+![image][watchpng]
+
+
+# Latest (2020-05-18)
 
 Long time no see! During this time a lot have been worked on behind the scenes. We have been working on establishing processes around the project it-self, the future of the project and how to work with our community. I will try to cover as much as possible without writing a book.
 
@@ -37,3 +46,6 @@ Currently the project has no lead for CasparCG Client.
 [1]: https://github.com/CasparCG/server/releases/tag/v2.3.0-lts-beta.1
 [2]: https://github.com/nodejs/TSC
 [3]: https://github.com/CasparCG/server/milestones
+[4]: https://github.com/CasparCG/
+
+[watchpng]: https://raw.githubusercontent.com/CasparCG/announcements/master/static/img/watching.png
